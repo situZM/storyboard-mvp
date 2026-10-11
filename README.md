@@ -1,1 +1,6 @@
-角色板确认子步 + assembled-prompts 只读 + 宫格导出 + P0-P3 Mock + 参考图支持本地上传+URL
+# storyboard-mvp
+
+Mock 前端演示（静态站点，HashRouter）。
+
+- 地址：https://situzm.github.io/storyboard-mvp/
+- 功能：角色库 + 概要步选角色
