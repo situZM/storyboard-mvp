@@ -1,7 +1,14 @@
 # storyboard-mvp
 
-Mock virtual demo of the storyboard MVP frontend.
+剧情漫画四步向导 · Mock only · no Atlas.
 
-This is a static Vite production build with HashRouter and `VITE_USE_MOCK=true`. It runs entirely in the browser and does not call the Atlas or Seedream APIs (or any other image-generation API).
+Static Vite production build with HashRouter and `VITE_USE_MOCK=true`:
 
-GitHub Pages should be served from the `main` branch at `/` (root).
+1. premise
+2. editable story and characters (appearance)
+3. editable storyboard
+4. mock generate wall
+
+It runs entirely in the browser and does not call Atlas, Seedream, or any other image-generation API.
+
+GitHub Pages is served from the `main` branch at `/` (root): https://situzm.github.io/storyboard-mvp/
